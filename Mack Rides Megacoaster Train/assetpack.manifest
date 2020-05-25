@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 546417391
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: efc0ae77a7822e6f9b812d68120d4cd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a0be4af3980ba47a91ee745c7d1d323a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/AssetPack/ff10fa15fe0a25541bbe48d7a50b96f5.car.prefab
+- Assets/Resources/AssetPack/ff10fa15fe0a25541bbe48d7a50b96f5.leadCar.prefab
+Dependencies: []
